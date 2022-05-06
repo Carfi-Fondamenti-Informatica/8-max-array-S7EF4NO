@@ -1,10 +1,10 @@
 
-#ifndef ARRAY_ESERCITAZIONI_LIBRERIA_H
-#define ARRAY_ESERCITAZIONI_LIBRERIA_H
+#ifndef ARRAY_ESERCITAZIONI_LIB_H
+#define ARRAY_ESERCITAZIONI_LIB_H
 
 
 float Max( float [], int  );
 void Init(float [],int );
 
-#endif //ARRAY_ESERCITAZIONI_LIBRERIA_H
+#endif //ARRAY_ESERCITAZIONI_LIB_H
 
