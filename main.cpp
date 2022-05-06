@@ -8,7 +8,7 @@ int main()
 
     cout<<"Inserisci la dimensione del vettore:";
     cin>>d;
-    float p[d];
+    float p[];
     Init(p, d);
 
     for(int i=0;i<d;i++)
