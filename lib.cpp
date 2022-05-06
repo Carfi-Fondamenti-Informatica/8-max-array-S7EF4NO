@@ -1,7 +1,7 @@
 
 #include "lib.h"
 
-void Init(float p[],int d)
+void Init(float p[],float d)
 {
     for(int i=0;i<d;i++)
     {
@@ -9,7 +9,7 @@ void Init(float p[],int d)
     }
 }
 
-float Max( float p[], int d)
+float Max( float p[], float d)
 {
     float temporaneo=p[0];
 
