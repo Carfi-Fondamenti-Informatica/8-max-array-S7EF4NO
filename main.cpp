@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int d;
+    float d;
 
     cout<<"Inserisci la dimensione del vettore:";
     cin>>d;
