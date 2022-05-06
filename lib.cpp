@@ -1,5 +1,5 @@
 
-#include "libreria.h"
+#include "lib.h"
 
 void Init(float p[],int d)
 {
