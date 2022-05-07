@@ -3,8 +3,8 @@
 #define ARRAY_ESERCITAZIONI_LIB_H
 
 
-float Max( float [], float  );
-void Init(float [],float );
+float Max( float [], int  );
+void Init(float [], int );
 
 #endif //ARRAY_ESERCITAZIONI_LIB_H
 
