@@ -4,9 +4,7 @@ using namespace std;
 
 int main()
 {
-    float d;
-
-    cout<<"Inserisci la dimensione del vettore:";
+    int d;
     cin>>d;
     float p[];
     Init(p, d);
