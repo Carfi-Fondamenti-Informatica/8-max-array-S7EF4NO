@@ -6,7 +6,7 @@ int main()
 {
     int d;
     cin>>d;
-    float p[];
+    float p[d];
     Init(p, d);
 
     for(int i=0;i<d;i++)
